@@ -1,4 +1,4 @@
-import React from "react";
+simport React from "react";
 import { Accordion, AccordionItem } from "@nextui-org/react";
 import styled from "styled-components";
 const FAQS = ({ question, answer }) => {
